@@ -1,5 +1,5 @@
 /* Basic Style */
-body {
+.todo-page {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -12,11 +12,11 @@ body {
   text-align: right;
 }
 
-.todo-header img {
+.todo-header__matrix-img {
   width: 100%;
 }
 
-.todo-header .details-link {
+.todo-header__details-link {
   font-family: fantasy, cursive;
 }
 
