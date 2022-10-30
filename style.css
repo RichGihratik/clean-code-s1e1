@@ -9,7 +9,7 @@
   width: 500px;
   margin: 0 auto;
   display: block;
-  text-align: right;
+  text-align: right; 
 }
 
 .todo-header__matrix-img {
