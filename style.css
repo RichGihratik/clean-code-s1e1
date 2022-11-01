@@ -156,7 +156,7 @@
 }
 
 /* Completed */
-ul#completed-tasks label {
+.task-item__label_completed {
   text-decoration: line-through;
   color: #888;
 }
