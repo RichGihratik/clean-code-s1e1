@@ -145,13 +145,13 @@
   display: none;
 }
 
-.task-btn_type_delete__icon {
+.delete-btn__icon {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.task-btn_type_delete__icon:hover {
+.delete-btn__icon:hover {
   transform: rotateZ(0);
 }
 
